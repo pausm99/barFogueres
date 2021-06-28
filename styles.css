@@ -1,25 +1,39 @@
+html {
+	background:  #EEEDEE;
+	font-family: Courier;
+}
+
+em {
+	color: #444142;
+}
+
 h1 {
-	font-size: 32px;
-	margin-left: 1.7em;
+	font-size: 38px;
+	margin-left: 5px;
+	color: #444142;
 }
 
 h2 {
-	font-size: 30px;
-	margin-left: 5em;
+	font-size: 40px;
+	margin-left: 160px;
+	color: #444142;
 }
 
 p {
-	font-size: 20px;
-	color: red;
+	font-size: 22px;
+	color: #3836FF;
+	text-align: left;
 }
 
 table {
 	text-align: left;
 	margin-bottom: 20px;
+	color: #444142;
 }
 
 td {
-	width: 330px;
+	text-align: left;
+	width: 450px;
 	margin-right: 70px;
 	margin-left: 20px;
 	font-size: 17px;
@@ -28,7 +42,6 @@ td {
 section {
 	width: 90%;
 	margin-left: 15px;
-	margin-top: 25px;
 	padding: 10px;
 	float: left;
 }
@@ -41,5 +54,6 @@ aside {
 	float: left;
 	font-size: 1.5em;
 }
+
 
 
