@@ -9,7 +9,7 @@ em {
 
 h1 {
 	font-size: 38px;
-	margin-left: 5px;
+	margin-left: 20px;
 	color: #444142;
 }
 
@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-	font-size: 22px;
+	font-size: 20px;
 	color: #3836FF;
 	text-align: left;
 }
@@ -54,6 +54,9 @@ aside {
 	float: left;
 	font-size: 1.5em;
 }
+
+
+
 
 
 
