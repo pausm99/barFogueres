@@ -3,9 +3,9 @@ html {
 	font-family: Courier;
 }
 
-em {
+div {
 	color: #444142;
-	font-size: 17px;
+	font-size: 16px;
 }
 
 h1 {
@@ -55,6 +55,9 @@ aside {
 	float: left;
 	font-size: 1.5em;
 }
+
+
+
 
 
 
