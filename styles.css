@@ -1,29 +1,26 @@
 html {
-	background:  #EEEDEE;
-	font-family: Courier;
+	background:  #EAEAEA;
+	font-family: 'Raleway', sans-serif;
 }
 
 div {
-	color: #444142;
 	font-size: 16px;
 }
 
 h1 {
 	font-size: 38px;
-	margin-left: 20px;
-	color: #444142;
+	margin-left: 1.6em;
 }
 
 h2 {
 	font-size: 40px;
-	margin-left: 160px;
-	color: #444142;
+	margin-left: 4.5em;
 }
 
 p {
 	font-size: 20px;
-	color: #3836FF;
 	text-align: left;
+	font-weight: 800;
 }
 
 table {
@@ -55,14 +52,5 @@ aside {
 	float: left;
 	font-size: 1.5em;
 }
-
-
-
-
-
-
-
-
-
 
 
